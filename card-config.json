@@ -1,0 +1,192 @@
+{
+  "title": "星辉十一相",
+  "subtitle": "幻梦集",
+  "technique": "流霞之舞",
+  "tagline": "一卡一相 · 十一面星辉",
+  "edition": "01 / 11",
+  "collection": "个人全息典藏",
+  "description": "十一张角色立绘生成的多卡全息卡组：一次只展一张，可随意切换。",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "appearance": {
+    "background": "#fafafa",
+    "finish": "silver"
+  },
+  "assets": {
+    "subject": "./assets/a01-subject.webp",
+    "background": "./assets/a01-background.webp",
+    "text": "./assets/text-empty.png",
+    "lineart": null,
+    "effects": "./assets/effects.png",
+    "model": "./assets/card.glb"
+  },
+  "cards": [
+    {
+      "id": "a01",
+      "title": "SNOWSPRITE",
+      "subtitle": "雪灵",
+      "description": "白发尖耳，霜雪初生。",
+      "assets": {
+        "subject": "./assets/a01-subject.webp",
+        "background": "./assets/a01-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a01-thumb.webp"
+      },
+      "skin": "时之愿境",
+      "quality": "星传说"
+    },
+    {
+      "id": "a02",
+      "title": "SPIRIT BOND",
+      "subtitle": "灵约",
+      "description": "与光同行，静默成约。",
+      "assets": {
+        "subject": "./assets/a02-subject.webp",
+        "background": "./assets/a02-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a02-thumb.webp"
+      },
+      "skin": "遇见神鹿",
+      "quality": "史诗"
+    },
+    {
+      "id": "a03",
+      "title": "PEACH",
+      "subtitle": "桃夭",
+      "description": "一抹绯色，落在春分。",
+      "assets": {
+        "subject": "./assets/a03-subject.webp",
+        "background": "./assets/a03-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a03-thumb.webp"
+      },
+      "skin": "山海·碧波行",
+      "quality": "史诗"
+    },
+    {
+      "id": "a04",
+      "title": "VIOLET",
+      "subtitle": "紫薇",
+      "description": "夜色为衣，星屑作饰。",
+      "assets": {
+        "subject": "./assets/a04-subject.webp",
+        "background": "./assets/a04-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a04-thumb.webp"
+      },
+      "skin": "大耳狗之梦",
+      "quality": "珍品传说"
+    },
+    {
+      "id": "a05",
+      "title": "AMBER",
+      "subtitle": "琥珀",
+      "description": "暖调微光，午后三时。",
+      "assets": {
+        "subject": "./assets/a05-subject.webp",
+        "background": "./assets/a05-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a05-thumb.webp"
+      },
+      "skin": "拾光映像",
+      "quality": "荣耀典藏"
+    },
+    {
+      "id": "a06",
+      "title": "TIDE",
+      "subtitle": "沧海",
+      "description": "潮声未起，蓝已漫山。",
+      "assets": {
+        "subject": "./assets/a06-subject.webp",
+        "background": "./assets/a06-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a06-thumb.webp"
+      },
+      "skin": "真我赫兹",
+      "quality": "无双限定"
+    },
+    {
+      "id": "a07",
+      "title": "SUGARBUN",
+      "subtitle": "糖兔",
+      "description": "抱一只兔，笑意成糖。",
+      "assets": {
+        "subject": "./assets/a07-subject.webp",
+        "background": "./assets/a07-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a07-thumb.webp"
+      },
+      "skin": "时之祈愿",
+      "quality": "传说"
+    },
+    {
+      "id": "a08",
+      "title": "GOLDEN",
+      "subtitle": "金穗",
+      "description": "花冠之下，紫瞳如夜。",
+      "assets": {
+        "subject": "./assets/a08-subject.webp",
+        "background": "./assets/a08-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a08-thumb.webp"
+      },
+      "skin": "森",
+      "quality": "伴生"
+    },
+    {
+      "id": "a09",
+      "title": "DRAGON",
+      "subtitle": "龙吟",
+      "description": "角上龙吟，衣间云海。",
+      "assets": {
+        "subject": "./assets/a09-subject.webp",
+        "background": "./assets/a09-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a09-thumb.webp"
+      },
+      "skin": "鹿灵守心",
+      "quality": "默认"
+    },
+    {
+      "id": "a10",
+      "title": "EMBER",
+      "subtitle": "焰羽",
+      "description": "执杖而行，焰羽生风。",
+      "assets": {
+        "subject": "./assets/a10-subject.webp",
+        "background": "./assets/a10-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a10-thumb.webp"
+      },
+      "skin": "时之愿境",
+      "quality": "星传说"
+    },
+    {
+      "id": "a11",
+      "title": "MISTRAL",
+      "subtitle": "青岚",
+      "description": "山气初岚，明亮如洗。",
+      "assets": {
+        "subject": "./assets/a11-subject.webp",
+        "background": "./assets/a11-background.webp",
+        "text": "./assets/text-empty.png",
+        "thumb": "./assets/a11-thumb.webp"
+      },
+      "skin": "遇见神鹿",
+      "quality": "史诗"
+    }
+  ],
+  "parameters": {
+    "subjectScale": 1.12,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "effectsDepth": 0.14,
+    "foil": 0.92
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  }
+}
